@@ -8,7 +8,7 @@
  */
 
 ;(function($, window, document, undefined){
-
+  
     var pluginName = 'nivoLightbox',
         defaults = {
             effect: 'fade',

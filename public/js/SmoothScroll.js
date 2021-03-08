@@ -9,7 +9,7 @@
   
 // Scroll Variables (tweakable)
 var defaultOptions = {
-
+   
     // Scrolling Core
     frameRate        : 150, // [Hz]
     animationTime    : 400, // [px]

@@ -46,7 +46,7 @@ export class Navigation extends Component {
               </li>
               <li>
                 <a href="#features" className="page-scroll">
-                  The process
+                  Updates
                 </a>
               </li>
               <li>

@@ -11,7 +11,7 @@
 (function( $ ){
 
 	var createdElements = [];
-
+  
 	var defaults = {
 		options: {
 			prependExistingHelpBlock: false,

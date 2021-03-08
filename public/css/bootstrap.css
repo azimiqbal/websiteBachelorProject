@@ -1117,13 +1117,18 @@ img {
 }
 
 
-.img-responsivee,
+.img-responsivee{  
+  width: 400px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  
+}
 .thumbnail > img,
 .thumbnail a > img,
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 75%;
+  max-width: 20px;
   height: auto;
   border-radius: 10px;
 }

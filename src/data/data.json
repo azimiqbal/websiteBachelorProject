@@ -19,30 +19,36 @@
     "Team": [{
             "img": "img/team/01.jpg",
             "name": "Mathias Kartay",
+            "jobb": "Electrical",
             "job": "Head of risk analysis and product owner"
         },
         {
             "img": "img/team/02.jpg",
             "name": "Jonas Lium",
+            "jobb": "Machine",
             "job": "Head of testing"
         }, {
             "img": "img/team/03.jpg",
             "name": "Rolf Erik Evensen",
+            "jobb": "Machine",
             "job": "Head of design"
         },
         {
             "img": "img/team/04.jpg",
             "name": "Bjørnar Borgersen",
+            "jobb": "Software",
             "job": "Project leader and head of requirements"
         },
         {
             "img": "img/team/05.jpg",
             "name": "Danial Rana",
+            "jobb": "Software",
             "job": "Head of communication"
         },
         {
             "img": "img/team/06.jpg",
             "name": "Azim Iqbal",
+            "jobb": "Software",
             "job": "Head of documentation and Scrum master"
         }
     ],
@@ -52,7 +58,9 @@
     },
 
     "Features": [{
+        "paragraphh": "Our workspace is located at campus Kongsberg. Here, we generally work together from 9-3 with some days being longer than others",
         "paragraph": "We had our first presentation where we introduced our project. The presentation included an introduction of who we are, the problem domain and how we will work as a group moving forward. We also gave a slight insight into the technical aspects of the project, but that will be more of the focus for the next presentation. For more updates along the way, stay tuned :)"
+        
     }
 ]
     

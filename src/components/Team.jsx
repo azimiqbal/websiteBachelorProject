@@ -20,6 +20,7 @@ export class Team extends Component {
                       <img src={d.img} alt="..." className="team-img" />
                       <div className="caption">
                         <h4>{d.name}</h4>
+                        <h5>{d.jobb}</h5>
                         <p>{d.job}</p>
                       </div>
                     </div>
