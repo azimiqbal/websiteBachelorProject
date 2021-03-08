@@ -241,7 +241,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
-	padding: 100px 0;
+	padding: 45px 0;
 }
 #about h3 {
 	font-size: 22px;
@@ -276,11 +276,13 @@ header .intro-text {
 	padding-right: 8px;
 }
 #about img {
-	width: 520px;
-	margin-top: 10px;
+	width: 900px;
+	margin-top: 130px;
+	margin-left: -125px;
 	background: #fff;
 	border-right: 0;
 	box-shadow: 0 0 50px rgba(0,0,0,0.06);
+	border-radius: 9%;
 }
 #about p {
 	line-height: 24px;
@@ -421,7 +423,7 @@ header .intro-text {
 	margin: 5px 0;
 }
 #team .team-img {
-	width: 240px;
+width: 100%;
 }
 #team .thumbnail {
 	background: transparent;
@@ -530,33 +532,16 @@ color: #777;
 	margin-bottom: 10px;
 	display: block;
 }
-#contact .contact-item i.fa {
-	margin-right: 10px;
-}
+
+
 #contact .social {
 	border-top: 1px solid rgba(255,255,255,0.15);
 	padding-top: 50px;
 	margin-top: 50px;
 	text-align: center;
 }
-#contact .social ul li {
-	display: inline-block;
-	margin: 0 20px;
-}
-#contact .social i.fa {
-	font-size: 22px;
-	width: 48px;
-	height: 48px;
-	padding: 12px 0;
-	border: 2px solid #fff;
-	color: #fff;
-	border-radius: 50%;
-	transition: all 0.3s;
-}
-#contact .social i.fa:hover {
-	color: #608dfd;
-	background: #fff;
-}
+
+
 /* Footer Section*/
 #footer {
 	background: #f6f6f6;
