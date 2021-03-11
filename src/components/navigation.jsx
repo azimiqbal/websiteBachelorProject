@@ -5,7 +5,6 @@ export class Navigation extends Component {
     return (
       <nav id="menu" className="navbar navbar-default navbar-fixed-top">
         <div className="container">
-        <img src="/img/logoo.png" alt="#page-top" height="100" />
           <div className="navbar-header">
             <button
               type="button"
@@ -19,6 +18,7 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
             </button>
+            <img src="img/real-logo.png" height="70" alt=""/>
             <a className="navbar-brand page-scroll" href="#page-top">
               Veiebrygge
             </a>{" "}
