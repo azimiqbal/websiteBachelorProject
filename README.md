@@ -1,4 +1,5 @@
 # Website for bachelor project
+--Website is live at https://itfag.usn.no/grupper/D12-21/ ------
 
 
 ## Description
