@@ -6,7 +6,7 @@
 
     },
     "About": {
-        "paragraph": "Our project is to develop a testing system for any vehicle the Norwegian army want to measure. We must design a physical platform that is able to measure the weight, angle and center of gravity for vehicles with wheels or belts, that weigh anywhere from 5 to 75 tons. Along with designing the platform, an important requirement given to us from our customer is that a complete test for any given vehicle should be completed within 4 hours, and after completion, a report with the desired information should be generated and stored. This is a multidisciplinary project, where we must combine hardware and software in order to develop a complete system.",
+        "paragraph": "Our project is to develop a testing system for any vehicle the Norwegian army want to measure. We must design a physical platform that is able to measure the weight, angle and center of gravity for vehicles with wheels or belts, that weigh anywhere from 5 to 75 tons. Along with designing the platform, an important requirement given to us from our customer is that a complete test for any given vehicle should be completed within 4 hours, and after completion, a report with the desired information should be generated and stored. This is a multidisciplinary project, where we must combine hardware and software in order to develop a complete system. ",
         "Why2": [
             "With current methods, many many soldiers are used in the process of testing",
             "Current methods are time consuming and expensive"
