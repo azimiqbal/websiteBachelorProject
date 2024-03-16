@@ -3,9 +3,7 @@
 
 
 ## Description
-This is a ReactJS based project for my bachelor project. This is a single page application, built on the template from Issaaf kattan:https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
-
+This is a ReactJS based project for my bachelor project. This is a single page application. All 'visual' data can be easily modified by changing the data.json file.
 
 ## Make it Yours!
 ### 1. Preps
